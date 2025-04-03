@@ -67,12 +67,3 @@ Enter Department: Computer Science
 Student added successfully!
 ```
 
-
-
-
- License
-This project is opensource and free to use.
-
-
-
-Let me know if you want any modifications! 🚀
